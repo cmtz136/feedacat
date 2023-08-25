@@ -1,0 +1,11 @@
+1.
+    #define rnd() (Flt)rand() / (Flt)RAND_MAX
+2.
+    320 * 240 = 76,800 pixels
+    76800 * 24 bytes = 1,843,200 bytes
+3.
+    
+4.
+    JPEG, PNG, PPM
+5.
+    Rendering engine for 2D/3D graphics, physics engine
